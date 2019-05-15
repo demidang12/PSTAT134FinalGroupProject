@@ -43,6 +43,14 @@ CD PSTAT134FinalGroupProject
 
 run: git pull origin master
 
-### To upload to github
+### To upload to github (Temp)
 
+click new -> terminal 
 
+ls
+
+CD PSTAT134FinalGroupProject
+
+run: git commit git commit FinalProject.ipynb -m "Write some sort of documentation"
+
+run: git push
