@@ -34,6 +34,16 @@ Run the command: git clone https://github.com/demidang12/PSTAT134FinalGroupProje
 
 Testing to see if edit are pulled
 
-To pull any changed made to the git
+### To Pull the latest changed from Github
+
+Click new -> Terminal
+
+ls
+
+CD PSTAT134FinalGroupProject
+
+run: git pull origin master
+
+### To upload to github
 
 
