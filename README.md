@@ -36,16 +36,4 @@ Testing to see if edit are pulled
 
 To pull any changed made to the git
 
-### Pull the latest changed from github
 
-Open terminal
-
-Change to directory where the project was saved to 
-
-run: git pull origin master
-
-### Pushing Code to Github
-
-Open Terminal 
-
-run: git push origin master
