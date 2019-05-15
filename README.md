@@ -13,16 +13,16 @@ Sergio Zambrano
 
 Tommy Siegle
 
-# Dataset
+## Dataset
 Data sets where obtained from yahoo finance 
 https://finance.yahoo.com/
 
-# Project Progress
+## Project Progress
 Get familiar with Github
 
 Create a master notebook with main functions
 
-# General Git instructions
+## General Git instructions
 
 Open Jupyter notebook
 
@@ -31,3 +31,11 @@ Click new -> Terminal
 Run the command: git clone https://github.com/demidang12/PSTAT134FinalGroupProject
 
 Testing to see if edit are pulled
+
+To pull any changed made to the git
+
+Open terminal
+
+Change to directory where the project was saved to 
+
+run: git pull origin master
