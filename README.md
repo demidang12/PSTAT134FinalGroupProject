@@ -24,8 +24,6 @@ Create a master notebook with main functions
 
 # General Git instructions
 
-Copy the URL: https://github.com/demidang12/PSTAT134FinalGroupProject
-
 Open Jupyter notebook
 
 Click new -> Terminal 
