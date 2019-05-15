@@ -1,0 +1,35 @@
+PSTAT134 Final Project Proposal
+
+Group Members:
+
+Sergio Zambrano
+Tommy Siegle
+Elia Xu
+Demi Dang
+
+Datasets: 
+Google: https://finance.yahoo.com/quote/GOOG/history?p=GOOG&.tsrc=fin-srch
+Amazon: https://finance.yahoo.com/quote/AMZN/history?p=AMZN&.tsrc=fin-srch
+Mastercard: https://finance.yahoo.com/quote/MA/history?p=MA&.tsrc=fin-srch
+Microsoft: https://finance.yahoo.com/quote/MSFT/history?p=MSFT&.tsrc=fin-srch
+Facebook: https://finance.yahoo.com/quote/FB/history?p=FB&.tsrc=fin-srch
+UnitedHealth Group: https://finance.yahoo.com/quote/UNH/history?p=UNH&.tsrc=fin-srch
+Visa: https://finance.yahoo.com/quote/V/history?p=V&.tsrc=fin-srch
+Boeing: https://finance.yahoo.com/quote/BA/history?p=BA&.tsrc=fin-srch
+Nvidia: https://finance.yahoo.com/quote/NVDA/history?p=NVDA&.tsrc=fin-srch
+Apple: https://finance.yahoo.com/quote/AAPL/history?p=AAPL&.tsrc=fin-srch
+
+Project Idea: Portfolio Optimization 
+
+Project Outline: 
+Research the basics of stocks, trading, and economics
+Obtain a subset of ten stocks and gather stock data related to selected stocks
+Load, wrangle, and clean data 
+Perform exploratory data analysis. I.E  check for missing data, relationships, dimension reduction,etc
+Create a model and optimize model such that it will minimize the variance in the portfolio
+Use seaborn or matplot to create visualizations that convey our findings
+If time permits, expand the projects to include more stocks from possibly more industries
+Develop poster presentation
+
+Goal: Knowing the distribution of several stocks (A, B, C…), construct a portfolio that the return gives less uncertainty.
+
