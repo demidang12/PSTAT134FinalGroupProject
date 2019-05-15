@@ -12,3 +12,12 @@ Elia Xu
 Sergio Zambrano 
 
 Tommy Siegle
+
+# Dataset
+Data sets where obtained from yahoo finance 
+https://finance.yahoo.com/
+
+# Project Progress
+Get familiar with Github
+
+Create a master notebook with main functions
