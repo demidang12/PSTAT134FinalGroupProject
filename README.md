@@ -32,7 +32,6 @@ Click new -> Terminal
 
 Run the command: git clone https://github.com/demidang12/PSTAT134FinalGroupProject
 
-Testing to see if edit are pulled
 
 ### To Pull the latest changed from Github
 
