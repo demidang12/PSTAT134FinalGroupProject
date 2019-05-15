@@ -6,6 +6,9 @@ If done correctly, our project will maximize returns while minimzing risk. In si
 
 ## Team
 Demi Dang 
+
 Elia Xu
+
 Sergio Zambrano 
+
 Tommy Siegle
