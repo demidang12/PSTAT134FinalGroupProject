@@ -24,7 +24,7 @@ Create a master notebook with main functions
 
 ## General Git instructions
 
-### Clone project and folder to Jupyter
+### Clone project to Jupyter
 
 Open Jupyter notebook
 
@@ -33,13 +33,13 @@ Click new -> Terminal
 Run the command: git clone https://github.com/demidang12/PSTAT134FinalGroupProject
 
 
-### To Pull the latest changed from Github
+### Get the latest changes from Github
 
 Click new -> Terminal
 
-ls
+run: ls
 
-CD PSTAT134FinalGroupProject
+run: cd PSTAT134FinalGroupProject
 
 run: git pull origin master
 
@@ -47,11 +47,11 @@ run: git pull origin master
 
 click new -> terminal 
 
-ls
+run :ls
 
-cd PSTAT134FinalGroupProject
+run: cd PSTAT134FinalGroupProject
 
-run: git add <filename>
+run: git add .
 
 run: git commit -m 'projectcode'
 
