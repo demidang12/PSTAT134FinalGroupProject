@@ -75,4 +75,4 @@ run: git commit -m "projectcode"
 
 run: git push --set-upstream origin collab
 
-The code should then be uploaded to a branch in github. From there click the buttom 'Pull request'
+The code should then be uploaded to a branch in github. From there click the buttom 'New Pull Request'. Follow the directions and write what changes you are making and what is it for. When it is all done, merge to main branch. 
