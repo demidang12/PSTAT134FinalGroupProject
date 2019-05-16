@@ -51,6 +51,8 @@ ls
 
 CD PSTAT134FinalGroupProject
 
-run: git commit git commit FinalProject.ipynb -m "Write some sort of documentation"
+run: git add
+
+run: git commit FinalProject.ipynb -m "Write some sort of documentation"
 
 run: git push
