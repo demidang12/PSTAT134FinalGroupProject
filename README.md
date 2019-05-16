@@ -51,5 +51,8 @@ ls
 
 CD PSTAT134FinalGroupProject
 
+run: git add <filename>
+
+run: git commit -m 'projectcode'
 
 run: git push
