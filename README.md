@@ -14,7 +14,7 @@ Sergio Zambrano
 Tommy Siegle
 
 ## Dataset
-Data sets where obtained from yahoo finance 
+Data sets were obtained from yahoo finance 
 https://finance.yahoo.com/
 
 ## Project Progress
