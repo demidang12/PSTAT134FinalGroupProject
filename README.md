@@ -56,3 +56,23 @@ run: git add .
 run: git commit -m 'projectcode'
 
 run: git push
+
+### Better way to upload (It's better documented)
+
+click new - > terminal
+
+run: ls
+
+run: cd PSTAT134FinalGroupProject
+
+run: git checkout collab
+
+If the previous did not work, run: git branch collab 
+
+run: git add .
+
+run: git commit -m "projectcode"
+
+run: git push --set-upstream origin collab
+
+The code should then be uploaded to a branch in github. From there click the buttom 'Pull request'
