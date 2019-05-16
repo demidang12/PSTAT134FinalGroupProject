@@ -49,7 +49,7 @@ click new -> terminal
 
 ls
 
-CD PSTAT134FinalGroupProject
+cd PSTAT134FinalGroupProject
 
 run: git add <filename>
 
