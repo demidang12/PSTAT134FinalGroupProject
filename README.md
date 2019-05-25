@@ -41,7 +41,11 @@ run: ls
 
 run: cd PSTAT134FinalGroupProject
 
+Until I find a better way to download and upload to github, make sure to pull before uploading
+
 run: git pull origin master
+
+run: git pull origin collab
 
 ### To upload to github (Temp)
 
@@ -51,28 +55,12 @@ run :ls
 
 run: cd PSTAT134FinalGroupProject
 
-run: git add .
-
-run: git commit -m 'projectcode'
-
-run: git push
-
-### Better way to upload (It's better documented)
-
-click new - > terminal
-
-run: ls
-
-run: cd PSTAT134FinalGroupProject
-
 run: git checkout collab
 
-If the previous did not work, run: git branch collab 
-
 run: git add .
 
-run: git commit -m "projectcode"
+run: git commit -m 'Write something relevant to code'
 
-run: git push --set-upstream origin collab
+run: git push
 
 The code should then be uploaded to a branch in github. From there click the buttom 'New Pull Request'. Follow the directions and write what changes you are making and what is it for. When it is all done, merge to main branch. 
