@@ -64,3 +64,15 @@ run: git commit -m 'Write something relevant to code'
 run: git push
 
 The code should then be uploaded to a branch in github. From there click the buttom 'New Pull Request'. Follow the directions and write what changes you are making and what is it for. When it is all done, merge to main branch. 
+
+### Reset branch and pull from others
+
+open Terminal
+
+run the following commands
+
+git fetch --all
+git reset --hard origin/master
+git reset --hard HEAD
+git clean -f -d
+git pull origin NameofBrance
