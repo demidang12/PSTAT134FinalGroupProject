@@ -72,7 +72,11 @@ open Terminal
 run the following commands
 
 git fetch --all
+
 git reset --hard origin/master
+
 git reset --hard HEAD
+
 git clean -f -d
+
 git pull origin NameofBrance
