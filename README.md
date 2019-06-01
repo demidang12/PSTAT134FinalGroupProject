@@ -84,3 +84,24 @@ git pull origin NameofBrance
 If a prompt window pops up press
 
 ctrl-x ctrl-c
+
+## Objectives by priority
+
+### Schedule function that calls the order function every specified day
+
+Order stocks in Algorithm by proportion: order_targert_percent
+
+### Recalculate weights 
+
+Has to be done every interval by a schedule function
+
+
+### Trading can only occur in certain days
+
+Use NYSE calendar to ensure trading is done in weekdays and not in holidays
+
+### Short selling
+
+Borrow money from brokerage to execute trades, need to repay by a certain percentage
+
+
