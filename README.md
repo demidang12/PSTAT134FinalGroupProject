@@ -89,7 +89,7 @@ ctrl-x ctrl-c
 
 ### Schedule function that calls the order function every specified day
 
-Order stocks in Algorithm by proportion: order_targert_percent
+Order stocks in Algorithm by proportion: order_target_percent
 
 ### Recalculate weights 
 
@@ -103,5 +103,3 @@ Use NYSE calendar to ensure trading is done in weekdays and not in holidays
 ### Short selling
 
 Borrow money from brokerage to execute trades, need to repay by a certain percentage
-
-
