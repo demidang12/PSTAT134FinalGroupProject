@@ -80,3 +80,7 @@ git reset --hard HEAD
 git clean -f -d
 
 git pull origin NameofBrance
+
+If a prompt window pops up press
+
+ctrl-x ctrl-c
