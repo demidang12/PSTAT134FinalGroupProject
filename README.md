@@ -85,21 +85,34 @@ If a prompt window pops up press
 
 ctrl-x ctrl-c
 
-## Objectives by priority
+## Objectives 
 
-### Schedule function that calls the order function every specified day
+### Make the Poster
 
-Order stocks in Algorithm by proportion: order_target_percent
+#### Graphs/Key concepts
 
-### Recalculate weights 
+### Write the report
 
-Has to be done every interval by a schedule function
+#### Emphasize on how to improve
+
+Justify everything
+
+Make good questions
+
+portfolio vs mutual fund
+
+Diversity for portfolio(diff in risk/returns)
+
+Discuss approach: zipline(simulate Trasding) 
+
+broke eevrything aoart to make it easier to compare
+
+Visualize(make it easier to compare)
+
+Discussion of results: What did we find out by doing this project
+
+Finance makes us SAD
+
+Similar stocks are high risk by higher reward(tech stocks)
 
 
-### Trading can only occur in certain days
-
-Use NYSE calendar to ensure trading is done in weekdays and not in holidays
-
-### Short selling
-
-Borrow money from brokerage to execute trades, need to repay by a certain percentage
